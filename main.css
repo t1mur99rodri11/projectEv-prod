@@ -25,7 +25,7 @@ scroll-behavior: smooth;
 
 .block1 {
   padding: 20px 40px;
-  background-image: url(../images/block1-bg.png);
+  background-image: url(block1-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -516,7 +516,7 @@ scroll-behavior: smooth;
 /* block 5 */
 
 .block5 {
-  background-image: url(../images/block5-back.jpg);
+  background-image: url(block5-back.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
